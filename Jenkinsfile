@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("getting code") {
             steps {
-                git url: 'https://github.com/Louaykharouf26/BNPL-System.git', branch: 'master',
+                git url: 'https://github.com/Louaykharouf26/Multi-Cluster-Monitoring.git', branch: 'master',
                 credentialsId: 'github-credentials' //jenkins-github-creds
                 sh "ls -ltr"
             }
