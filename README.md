@@ -1,11 +1,7 @@
 
 # Monitoring of a K8S Multi-Cluster architecture Using Prometheus and Grafana
 
-In this article i m going to explain the process of the provision of a K8S multi-cluster architecutre on Azure and monitor it using Prometheus and Grafana
-
-### Github Repo
-[**GitHub - Louaykharouf26/Multi-Cluster-Monitoring**
-*Contribute to Louaykharouf26/Multi-Cluster-Monitoring development by creating an account on GitHub.*github.com](https://github.com/Louaykharouf26/Multi-Cluster-Monitoring.git)
+i m going to explain the process of the provision of a K8S multi-cluster architecutre on Azure and monitor it using Prometheus and Grafana
 
 ### Architecture Used
 
